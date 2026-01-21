@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.wav
+*.mp3
+# Ignorar arquivos de texto gerados (opcional, se forem dados sensíveis)
+transcricao_*.txt
+reuniao_*.txt
